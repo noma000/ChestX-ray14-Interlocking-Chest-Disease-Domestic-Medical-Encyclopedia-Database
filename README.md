@@ -2,7 +2,7 @@
 
 # **ChestX-ray14 연동 흉부질환 국내의학 백과사전 데이터베이스**
 
-## Class descriptions
+## Data descriptions
 ### There are eight classes for 880 subjects
 
 * Atelectasis
@@ -32,13 +32,13 @@
 |       └── diagnosis and treatment
 ```
 
-### **Examples**
+## **Examples**
 
-image
+### image
 
 <img src="./figure_01.jpg" width="500" height="270">
 
-Annotation
+### Annotation
 
 <img src="./xml.JPG" width="583" height="427"> 
 
