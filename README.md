@@ -1,6 +1,7 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
-# **Data count and format**
+# **ChestX-ray14 연동 흉부질환 국내의학 백과사전 데이터베이스**
+
 ## Class descriptions
 ### There are eight classes for 880 subjects
 
