@@ -13,9 +13,9 @@ Image
 
 ### **Examples**
 image
-<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/image.jpg" width="300" height="100">
+<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/blob/main/image.jpg" width="300" height="100">
 Annotation
-<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/annotation.jpg" width="300" height="100"> 
+<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/blob/main/annotation.jpg" width="300" height="100"> 
 
 ### **License**
 >  
