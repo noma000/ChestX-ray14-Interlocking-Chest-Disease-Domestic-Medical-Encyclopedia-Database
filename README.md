@@ -1,10 +1,8 @@
 <img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 
-# X-rays-based-thoracic-disease-diagnosis-model
-
-### **Data count and format**
-Class descriptions
-There are eight classes for 880 subjects
+# **Data count and format**
+## Class descriptions
+### There are eight classes for 880 subjects
 
 * Atelectasis
 * Cardiomegaly
@@ -14,27 +12,23 @@ There are eight classes for 880 subjects
 * Pneumonia
 * Pneumothorax
 
-Image
-├── filename 512×512×3 size
+### Image
 
-Annotation
+```
+├── X-ray image 512×512×3 
+```
 
+### Annotation
+```
 ├── filename
-
 ├── observed
-
 │   ├── class
-
 │   ├── bndbox
-
 │   └── description
-
 |       ├── cause
-
 |       ├── symptom
-
 |       └── diagnosis and treatment
-
+```
 
 ### **Examples**
 
