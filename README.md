@@ -3,13 +3,29 @@
 # X-rays-based-thoracic-disease-diagnosis-model
 
 ### **Data count and format**
-> Class name 
-Atelectasis, Cardiomegaly, Effusion, Infiltrate, Mass,Nodule, Pneumonia and Pneumothorax
-> The number of subjects
-880 dataset
-> Directory 
+> Class descriptions
+There are eight classes for 880 subjects
 
-Image
+* Atelectasis
+* Cardiomegaly
+* Effusion
+* Infiltrate
+* Mass,Nodule
+* Pneumonia
+* Pneumothorax
+
+>Image
+>> 512×512×3 size
+
+>Annotation
+>> Filename
+>> Observed
+>>> Class
+>>> Bounding box
+>>> Description
+>>>> Cause
+>>>> Symptom
+>>>> Diagnosis and treatment
 
 ### **Examples**
 image
