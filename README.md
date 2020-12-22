@@ -13,9 +13,9 @@ Image
 
 ### **Examples**
 image
-<img src="./image.jpg" width="300" height="100">
+<img src="./figure_01.jpg" width="300" height="100">
 Annotation
-<img src="./annotation.jpg" width="300" height="100"> 
+<img src="./xml.JPG" width="300" height="100"> 
 
 ### **License**
 >  
