@@ -15,7 +15,7 @@
 ### Image
 
 ```
-├── X-ray image 512×512×3 
+├── X-ray image(512×512×3)
 ```
 
 ### Annotation
