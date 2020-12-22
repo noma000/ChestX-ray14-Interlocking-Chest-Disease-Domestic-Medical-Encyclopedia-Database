@@ -2,18 +2,26 @@
 
 # X-rays-based-thoracic-disease-diagnosis-model
 
-### **Data Structure**
-> Class name
+### **Data count and format**
+> Class name 
+Atelectasis, Cardiomegaly, Effusion, Infiltrate, Mass,Nodule, Pneumonia and Pneumothorax
 > The number of subjects
+880 dataset
+> Directory 
+
+Image
 
 ### **Examples**
-> You need three data (1. images, 2. bounding_box.pickle, 3. label_file)  
+image
+<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/image/figure1.png" width="300" height="100">
+Annotation
+<img src="https://github.com/noma000/ChestX-ray14-Interlocking-Chest-Disease-Domestic-Medical-Encyclopedia-Database/image/figure2.png" width="300" height="100"> 
 
 ### **License**
 >  
 
 ### **Reference**
-> python3 run.py --file_path --g_path --d_path  
+>   
 
 ### **Download Link**
 > https://drive.google.com/file/d/1SLQBrafbDi7W3G75bw_tKaV25C3HAk6N/view?usp=sharing
