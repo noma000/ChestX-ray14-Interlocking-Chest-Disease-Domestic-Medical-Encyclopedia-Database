@@ -9,7 +9,8 @@
 * Cardiomegaly
 * Effusion
 * Infiltrate
-* Mass,Nodule
+* Mass
+* Nodule
 * Pneumonia
 * Pneumothorax
 
