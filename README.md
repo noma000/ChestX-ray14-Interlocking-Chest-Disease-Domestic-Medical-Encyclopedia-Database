@@ -161,7 +161,9 @@ For more information, please see
 <http://creativecommons.org/publicdomain/zero/1.0/>
 
 ## **Reference**
->   
-
+* https://www.kaggle.com/nih-chest-xrays/
+* Wang X, Peng Y, Lu L, Lu Z, Bagheri M, Summers RM. ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases. IEEE CVPR 2017, ChestX-ray8Hospital-ScaleChestCVPR2017_paper.pdf
+* NIH News release: NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community
+* Original source files and documents: https://nihcc.app.box.com/v/ChestXray-NIHCC/folder/36938765345
 ### **Download Link**
 > https://drive.google.com/file/d/1SLQBrafbDi7W3G75bw_tKaV25C3HAk6N/view?usp=sharing
