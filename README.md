@@ -3,7 +3,7 @@
 # X-rays-based-thoracic-disease-diagnosis-model
 
 ### **Data count and format**
-> Class descriptions
+Class descriptions
 There are eight classes for 880 subjects
 
 * Atelectasis
@@ -14,18 +14,19 @@ There are eight classes for 880 subjects
 * Pneumonia
 * Pneumothorax
 
->Image
->> 512×512×3 size
+Image
+├── filename 512×512×3 size
 
->Annotation
->> Filename
->> Observed
->>> Class
->>> Bounding box
->>> Description
->>>> Cause
->>>> Symptom
->>>> Diagnosis and treatment
+Annotation
+├── filename
+├── observed
+│   ├── class
+│   ├── bndbox
+│   └── description
+|       ├── cause
+|       ├── symptom
+|       └── diagnosis and treatment
+
 
 ### **Examples**
 image
