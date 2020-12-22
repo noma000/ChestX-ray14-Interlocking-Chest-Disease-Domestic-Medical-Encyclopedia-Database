@@ -13,7 +13,7 @@ Image
 
 ### **Examples**
 image
-<img src="./figure_01.jpg" width="1187" height="539">
+<img src="./figure_01.jpg" width="500" height="270">
 Annotation
 <img src="./xml.JPG" width="583" height="427"> 
 
