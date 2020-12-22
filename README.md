@@ -42,7 +42,7 @@
 
 ## **License**
 [MIT License](./LICENSE.md)
-
+<img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
 ## **Reference**
 * https://www.kaggle.com/nih-chest-xrays/data?select=BBox_List_2017.csv
 * NIH News release: NIH Clinical Center provides one of the largest publicly available chest x-ray datasets to scientific community
